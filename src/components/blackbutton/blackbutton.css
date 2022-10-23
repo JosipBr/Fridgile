@@ -1,0 +1,16 @@
+.blackbutton{
+    background-color: #272727;
+    color: white;
+    border-radius: 20px;
+    width: 45%;
+    height: 50px;
+    border-style: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.blackbutton img{
+    padding-left: 10px;
+}

@@ -1,0 +1,85 @@
+{
+    "Carbonara":{
+        "id": "1",
+        "time":"dinner",
+        "name": "Carbonara",
+        "ingredients": [
+            "Spaghetti",
+            "Tomato",
+            "Shrimp",
+            "Olive oil",
+            "Egg",
+            "Parmesan",
+            "Garlic"
+        ],
+        "amount":7
+    },
+
+    "Sweetpotato":{
+        "id":"2",
+        "time":"lunch",
+        "name":"Baked Sweet Potato",
+        "ingredients":[
+            "Sweet potato",
+            "Butter"
+        ],
+        "amount":2
+    },
+
+    "Muffin":{
+        "id":"3",
+        "time":"breakfast",
+        "name":"Breakfast Muffin",
+        "ingredients":[
+           "Egg",
+           "Yogurt",
+           "Apple sauce",
+           "Cinnamon",
+           "Blueberry"
+        ],
+        "amount":5
+    },
+
+    "Smoothie":{
+        "id":"4",
+        "time":"breakfast",
+        "name":"Breakfast Smoothie",
+        "ingredients":[
+           "Banana",
+           "Blackberry",
+           "Apple juice",
+           "Honey"
+        ],
+        "amount":4
+    },
+
+    "TurkeyLunchBowl":{
+        "id":"5",
+        "time":"lunch",
+        "name":"Turkey Bowl",
+        "ingredients":[
+           "Onion",
+           "Lemon",
+           "Turkey breast",
+           "Clementine",
+           "Garlic",
+           "Red pepper",
+           "Wallnut halves"
+        ],
+        "amount":7
+    },
+
+    "ChickenWingDippers":{
+        "id":"6",
+        "time":"dinner",
+        "name":"Chicken Wing Dippers",
+        "ingredients":[
+           "Chicken wing",
+           "Cornflour",
+           "Baking powder",
+           "Sunflower oil"
+        ],
+        "amount":4
+    }
+
+}
